@@ -1,14 +1,14 @@
-**Description**
+### Description
 
 A simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. Allow users to encrypt and decrypt images
 
 ### Usage:
 
-- Encrypt an image:
-      python image_encryption_tool.py encrypt input_image.jpg 123 encrypted_image.jpg
+  Encrypt an image:
+      **python  image_encryption_tool.py  encrypt  input_image.jpg  123  encrypted_image.jpg**
 
-- Decrypt an image:
-      python image_encryption_tool.py decrypt encrypted_image.jpg 123 decrypted_image.jpg
+  Decrypt an image:
+      **python  image_encryption_tool.py  decrypt  encrypted_image.jpg  123  decrypted_image.jpg**
 
 "123" is an example value for the **encryption/decryption key**. It is a numeric value used to manipulate pixel values during the encryption and decryption processes.
 
