@@ -54,3 +54,4 @@ if __name__ == "__main__":
         encrypt_image(args.image_path, args.key, args.output_path)
     elif args.mode == "decrypt":
         decrypt_image(args.image_path, args.key, args.output_path)
+
