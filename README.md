@@ -1,6 +1,15 @@
-### Description
+## Description
 
 A simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. Allow users to encrypt and decrypt images
+
+### Required Python Libraries
+
+Installation:
+
+    pip install Pillow
+    pip install numpy
+    
+Ensure you are using Python 3.7 or later, as it is compatible with the required libraries.
 
 ### Usage:
 
